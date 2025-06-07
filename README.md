@@ -13,7 +13,7 @@ Power BI Desktop
 
 Amazon Sales Dataset
 
-# Key Questions (Simple & Short):
+# Key Questions:
 What is the total sales value?
 
 How many total orders are there?
@@ -41,4 +41,10 @@ How many customers are from each location?
 How can I filter by category and product?
 
 How many products are available in total?
+
+# Snapshots:
+![image](https://github.com/user-attachments/assets/90802774-9e88-4df1-824d-d3b616e0df26)
+![Uploading image.png…]()
+
+
 
