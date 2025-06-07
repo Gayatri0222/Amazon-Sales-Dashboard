@@ -44,7 +44,9 @@ How many products are available in total?
 
 # Snapshots:
 ![image](https://github.com/user-attachments/assets/90802774-9e88-4df1-824d-d3b616e0df26)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/c4bdcdac-a792-41ec-a064-d5437f1caae2)
+
+
 
 
 
